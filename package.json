@@ -11,7 +11,7 @@
   "author": "Tom Moor <tom.moor@gmail.com>",
   "license": "MIT License",
   "dependencies": {
-    "ejs": "2.6.1",
+    "ejs": "3.1.2",
     "express": "4.16.4",
     "gm": "~1.23.0",
     "hepburn": "~1.0.0",
