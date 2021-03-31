@@ -12,7 +12,7 @@
   "license": "MIT License",
   "dependencies": {
     "ejs": "2.6.1",
-    "express": "4.16.4",
+    "express": "4.17.1",
     "gm": "~1.23.0",
     "hepburn": "~1.0.0",
     "minimist": "~1.2.3",
