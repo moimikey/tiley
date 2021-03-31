@@ -1544,9 +1544,9 @@ has@^1.0.1:
   dependencies:
     function-bind "^1.1.1"
 
-hepburn@~1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/hepburn/-/hepburn-1.0.0.tgz#49ce862942a77570cd4f5c8fe100b85d942cb61b"
+hepburn@~1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/hepburn/-/hepburn-1.2.0.tgz#81d01bf3dc7ea83370fac5bbcbfa0f9f1a0f819f"
   dependencies:
     bulk-replace "0.0.1"
 
